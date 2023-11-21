@@ -20,7 +20,7 @@ nltk==3.6.5
 ```
 直接cd根目录下，执行
 ```
-pip install -r requirement.txt
+pip install -r requirements.txt
 ```
 这里对于原始的openprompt进行了一定的改动，安装只需要cd根目录下，执行
 ```
